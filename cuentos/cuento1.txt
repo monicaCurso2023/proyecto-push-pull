@@ -1,9 +1,21 @@
 Cuento 1: "El Viaje de Ramiro y el Repositorio Mágico"
 
-Había una vez un joven programador llamado Ramiro que estaba decidido a aprender Git, una poderosa herramienta que le permitiría gestionar sus proyectos de programación de manera eficiente. Aunque al principio se sintió abrumado por los comandos y conceptos extraños, no se rindió.
+Había una vez un joven programador llamado Ramiro que estaba decidido a aprender Git, una 
+poderosa herramienta que le permitiría gestionar sus proyectos de programación de manera 
+eficiente. Aunque al principio se sintió abrumado por los comandos y conceptos extraños, 
+no se rindió.
 
-Un día, mientras exploraba tutoriales en línea, Ramiro se topó con un artículo que hablaba de un "Repositorio Mágico". Decía que aquel que pudiera aprender a usarlo tendría el poder de controlar el tiempo y el espacio en su código. Intrigado, Ramiro decidió seguir las instrucciones y encontró el camino hacia el Repositorio Mágico.
+Un día, mientras exploraba tutoriales en línea, Ramiro se topó con un artículo que hablaba 
+de un "Repositorio Mágico". Decía que aquel que pudiera aprender a usarlo tendría el poder 
+de controlar el tiempo y el espacio en su código. Intrigado, Ramiro decidió seguir las 
+instrucciones y encontró el camino hacia el Repositorio Mágico.
 
-Dentro del repositorio, Ramiro se enfrentó a desafíos en forma de bifurcaciones y conflictos, pero recordó las lecciones que había aprendido. Con cada resolución exitosa, su confianza creció. Con el tiempo, dominó las ramas y las fusiones, y se convirtió en un experto en resolver conflictos.
+Dentro del repositorio, Ramiro se enfrentó a desafíos en forma de bifurcaciones y conflictos, 
+pero recordó las lecciones que había aprendido. Con cada resolución exitosa, su confianza 
+creció. Con el tiempo, dominó las ramas y las fusiones, y se convirtió en un experto en 
+resolver conflictos.
 
-Un día, mientras exploraba una rama que parecía llevar a un futuro prometedor, se dio cuenta de que tenía el poder de mejorar su código y su vida. Se comprometió a seguir aprendiendo y a compartir su conocimiento con otros. Ramiro nunca olvidó la lección del Repositorio Mágico: con determinación y paciencia, podía controlar su destino como programador.
+Un día, mientras exploraba una rama que parecía llevar a un futuro prometedor, se dio cuenta 
+de que tenía el poder de mejorar su código y su vida. Se comprometió a seguir aprendiendo y 
+a compartir su conocimiento con otros. Ramiro nunca olvidó la lección del Repositorio Mágico: 
+con determinación y paciencia, podía controlar su destino como programador.
