@@ -1,11 +1,25 @@
 Cuento 2: "El Secreto del Árbol de Commits"
 
-En una aldea tranquila, vivía un joven llamado Emilio, un entusiasta programador que estaba embarcando en su viaje para aprender Git. Un día, mientras exploraba el bosque cercano en busca de inspiración, tropezó con un árbol inusual. Este árbol tenía ramas llenas de pequeños frutos brillantes.
+En una aldea tranquila, vivía un joven llamado Emilio, un entusiasta programador que estaba 
+embarcando en su viaje para aprender Git. Un día, mientras exploraba el bosque cercano en busca 
+de inspiración, tropezó con un árbol inusual. Este árbol tenía ramas llenas de pequeños frutos 
+brillantes.
 
-Intrigado, Emilio tocó uno de los frutos y de repente se encontró en un mundo mágico dentro del árbol. Allí, conoció al Anciano de los Commits, un sabio ser que le reveló el secreto del árbol. Cada fruto representaba un commit en el árbol, y podía viajar en el tiempo para ver cómo evolucionaba su código.
+Intrigado, Emilio tocó uno de los frutos y de repente se encontró en un mundo mágico dentro 
+del árbol. Allí, conoció al Anciano de los Commits, un sabio ser que le reveló el secreto del 
+árbol. Cada fruto representaba un commit en el árbol, y podía viajar en el tiempo para ver 
+cómo evolucionaba su código.
 
-Emilio comenzó a experimentar. Tomó un fruto y se vio transportado a un momento pasado en su código. Observó cómo su código evolucionaba, las ramas se bifurcaban y las fusiones se realizaban. Aprendió valiosas lecciones al ver los errores que cometía y cómo los resolvía.
+Emilio comenzó a experimentar. Tomó un fruto y se vio transportado a un momento pasado en su 
+código. Observó cómo su código evolucionaba, las ramas se bifurcaban y las fusiones se 
+realizaban. Aprendió valiosas lecciones al ver los errores que cometía y cómo los resolvía.
 
-Con el tiempo, Emilio aprendió a usar el árbol de commits para mejorar su flujo de trabajo. Podía volver atrás en el tiempo para corregir errores y experimentar con nuevas ideas. Su código se volvió más robusto y su confianza creció. Compartió su conocimiento con otros programadores y juntos exploraron el mundo mágico dentro del árbol.
+Con el tiempo, Emilio aprendió a usar el árbol de commits para mejorar su flujo de trabajo. 
+Podía volver atrás en el tiempo para corregir errores y experimentar con nuevas ideas. Su 
+código se volvió más robusto y su confianza creció. Compartió su conocimiento con otros 
+programadores y juntos exploraron el mundo mágico dentro del árbol.
 
-Con cada nuevo commit, Emilio sentía que estaba escribiendo su historia en el árbol, dejando una marca duradera en su viaje como programador. Aprendió que, al igual que en el mundo mágico del árbol de commits, cada paso en Git podía llevarlo a un lugar nuevo y emocionante en su camino de aprendizaje.
+Con cada nuevo commit, Emilio sentía que estaba escribiendo su historia en el árbol, dejando 
+una marca duradera en su viaje como programador. Aprendió que, al igual que en el mundo mágico 
+del árbol de commits, cada paso en Git podía llevarlo a un lugar nuevo y emocionante en su 
+camino de aprendizaje.
