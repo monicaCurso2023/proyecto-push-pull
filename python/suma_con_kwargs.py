@@ -5,6 +5,12 @@ def sumar_con_kwargs(**kwargs):
     return suma
 
 
+'''
+NOTA Acerca de **kwargs
+
+En **kwargs se recibe un numero indeterminado de argumentos desde cualquier
+variable de tipo dict
+'''
 valores = {
     'numero1': 5,
     'numero2': 10,
